@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e6aaa64a_5abd1497",
+        "filename": "ansible-tripleo-ipa-server.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 403
+      },
+      "writtenOn": "2020-09-11T10:29:30Z",
+      "side": 1,
+      "message": "can remove . from Summary to avoid rpm lint warning.",
+      "range": {
+        "startLine": 10,
+        "startChar": 77,
+        "endLine": 10,
+        "endChar": 78
+      },
+      "revId": "9e886d14f9d18b6314a64f99298b70853129092a",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
